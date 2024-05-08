@@ -1,2 +1,2 @@
 # MachineLearning2024
-My ML Course Homeworks
+In this repo, I upload everything related to the ML2024 Course Homeworks.
